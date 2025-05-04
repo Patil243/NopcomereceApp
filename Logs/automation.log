@@ -1,0 +1,135 @@
+04/26/25 10:38:01 PM :INFO: ************ Test_001_Login **********
+04/26/25 10:38:01 PM :INFO: ******* Verifyingb Home Page Title *******
+04/26/25 10:38:10 PM :INFO: ******* Home Page Title Test Is Failed *******
+04/26/25 10:38:14 PM :INFO: ************ Test_001_Login **********
+04/26/25 10:38:14 PM :INFO: ******* Verifying the logging test *******
+04/26/25 10:39:05 PM :INFO: ************ Login test is passed **********
+04/27/25 09:50:33 AM :INFO: ************ Test_001_Login **********
+04/27/25 09:50:34 AM :INFO: ******* Verifyingb Home Page Title *******
+04/27/25 09:50:38 AM :INFO: ******* Home Page Title Test Is Passed *******
+04/27/25 09:50:42 AM :INFO: ************ Test_001_Login **********
+04/27/25 09:50:42 AM :INFO: ******* Verifying the logging test *******
+04/27/25 09:51:17 AM :INFO: ************ Login test is passed **********
+04/27/25 10:17:31 AM :INFO: ************ Test_001_Login **********
+04/27/25 10:17:31 AM :INFO: ******* Verifying the logging test *******
+04/27/25 10:18:13 AM :INFO: ************ Login test is passed **********
+04/27/25 10:26:39 AM :INFO: ************ Test_001_Login **********
+04/27/25 10:26:39 AM :INFO: ******* Verifying Home Page Title *******
+04/27/25 10:26:44 AM :INFO: ******* Home Page Title Test Is Passed *******
+04/27/25 10:31:31 AM :INFO: ************ Test_001_Login **********
+04/27/25 10:31:31 AM :INFO: ******* Verifying Home Page Title *******
+04/27/25 10:31:35 AM :INFO: ******* Home Page Title Test Is Passed *******
+04/27/25 10:31:41 AM :INFO: ************ Test_001_Login **********
+04/27/25 10:31:41 AM :INFO: ******* Verifying the logging test *******
+04/27/25 10:32:23 AM :INFO: ************ Login test is passed **********
+04/27/25 12:40:42 PM :INFO: ************ Test_002_DD_Login **********
+04/27/25 12:40:42 PM :INFO: ******* Verifying the logging test *******
+04/27/25 12:41:07 PM :INFO: **** failed ****
+04/27/25 12:42:18 PM :INFO: **** Login DD Test Is Failed ****
+04/27/25 12:46:14 PM :INFO: ************ Test_002_DD_Login **********
+04/27/25 12:46:14 PM :INFO: ******* Verifying the logging test *******
+04/27/25 12:46:39 PM :INFO: **** failed ****
+04/27/25 12:48:06 PM :INFO: ************ Test_002_DD_Login **********
+04/27/25 12:48:06 PM :INFO: ******* Verifying the logging test *******
+04/27/25 12:48:33 PM :INFO: **** failed ****
+04/27/25 12:49:48 PM :INFO: **** Login DD Test Is Failed ****
+04/27/25 12:54:33 PM :INFO: ************ Test_002_DD_Login **********
+04/27/25 12:54:33 PM :INFO: ******* Verifying the logging test *******
+04/27/25 12:55:01 PM :INFO: **** failed ****
+04/27/25 12:56:48 PM :INFO: ************ Test_002_DD_Login **********
+04/27/25 12:56:48 PM :INFO: ******* Verifying the logging test *******
+04/27/25 12:57:04 PM :INFO: ************ Login test is passed **********
+04/27/25 12:57:42 PM :INFO: **** Login DD Test Is Passed ****
+04/27/25 12:57:42 PM :INFO: **** End Of Login DD test ****
+04/27/25 12:57:42 PM :INFO: **** Completed Test_002_DD_Login **** 
+04/27/25 04:49:12 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 04:50:23 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 04:54:47 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 05:01:11 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 05:05:02 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 05:05:07 PM :INFO: ************ Login Successful **********
+04/27/25 05:06:36 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 05:06:40 PM :INFO: ************ Login Successful **********
+04/27/25 05:07:36 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 05:07:42 PM :INFO: ************ Login Successful **********
+04/27/25 05:38:03 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 05:38:10 PM :INFO: ************ Login Successful **********
+04/27/25 05:41:58 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 05:42:06 PM :INFO: ************ Login Successful **********
+04/27/25 06:03:51 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 06:03:58 PM :INFO: ************ Login Successful **********
+04/27/25 06:04:07 PM :INFO: **** Providing Customer Info ****
+04/27/25 06:05:44 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 06:05:51 PM :INFO: ************ Login Successful **********
+04/27/25 06:06:07 PM :INFO: **** Providing Customer Info ****
+04/27/25 06:07:06 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 06:07:12 PM :INFO: ************ Login Successful **********
+04/27/25 06:07:29 PM :INFO: **** Providing Customer Info ****
+04/27/25 06:09:47 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 06:09:57 PM :INFO: ************ Login Successful **********
+04/27/25 06:10:13 PM :INFO: **** Providing Customer Info ****
+04/27/25 06:12:35 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 06:12:41 PM :INFO: ************ Login Successful **********
+04/27/25 06:12:58 PM :INFO: **** Providing Customer Info ****
+04/27/25 06:14:51 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 06:14:59 PM :INFO: ************ Login Successful **********
+04/27/25 06:15:08 PM :INFO: **** Providing Customer Info ****
+04/27/25 06:17:26 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 06:17:33 PM :INFO: ************ Login Successful **********
+04/27/25 06:17:43 PM :INFO: **** Providing Customer Info ****
+04/27/25 06:19:24 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 06:19:30 PM :INFO: ************ Login Successful **********
+04/27/25 06:19:39 PM :INFO: **** Providing Customer Info ****
+04/27/25 06:21:16 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 06:21:27 PM :INFO: ************ Login Successful **********
+04/27/25 06:21:35 PM :INFO: **** Providing Customer Info ****
+04/27/25 06:21:56 PM :INFO: ****** Saving Cusomer Info *****
+04/27/25 06:37:04 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 06:37:11 PM :INFO: ************ Login Successful **********
+04/27/25 06:37:20 PM :INFO: **** Providing Customer Info ****
+04/27/25 06:37:40 PM :INFO: ****** Saving Cusomer Info *****
+04/27/25 06:37:40 PM :INFO: ******** Add Customer Validation Started ********
+04/27/25 06:37:40 PM :INFO:  ****** Add Customer Test Passed ******
+04/27/25 06:37:40 PM :INFO: ****** Ending Test_003_AddCustomer Test ******
+04/27/25 09:30:31 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 09:30:38 PM :INFO: ************ Login Successful **********
+04/27/25 09:30:50 PM :INFO: **** Providing Customer Info ****
+04/27/25 09:32:17 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 09:32:26 PM :INFO: ************ Login Successful **********
+04/27/25 09:32:35 PM :INFO: **** Providing Customer Info ****
+04/27/25 09:41:45 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 09:41:52 PM :INFO: ************ Login Successful **********
+04/27/25 09:42:02 PM :INFO: **** Providing Customer Info ****
+04/27/25 09:57:20 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 09:57:28 PM :INFO: ************ Login Successful **********
+04/27/25 09:57:39 PM :INFO: **** Providing Customer Info ****
+04/27/25 10:07:12 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 10:07:21 PM :INFO: ************ Login Successful **********
+04/27/25 10:07:30 PM :INFO: **** Providing Customer Info ****
+04/27/25 10:18:29 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 10:18:40 PM :INFO: ************ Login Successful **********
+04/27/25 10:18:48 PM :INFO: **** Providing Customer Info ****
+04/27/25 10:19:09 PM :INFO: ****** Saving Cusomer Info *****
+04/27/25 10:19:09 PM :INFO: ******** Add Customer Validation Started ********
+04/27/25 10:19:10 PM :INFO:  ****** Add Customer Test Passed ******
+04/27/25 10:19:10 PM :INFO: ****** Ending Test_003_AddCustomer Test ******
+04/27/25 10:20:26 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 10:20:35 PM :INFO: ************ Login Successful **********
+04/27/25 10:20:44 PM :INFO: **** Providing Customer Info ****
+04/27/25 10:24:42 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 10:24:53 PM :INFO: ************ Login Successful **********
+04/27/25 10:25:04 PM :INFO: **** Providing Customer Info ****
+04/27/25 10:25:25 PM :INFO: ****** Saving Cusomer Info *****
+04/27/25 10:25:25 PM :INFO: ******** Add Customer Validation Started ********
+04/27/25 10:25:25 PM :INFO:  ****** Add Customer Test Passed ******
+04/27/25 10:25:26 PM :INFO: ****** Ending Test_003_AddCustomer Test ******
+04/27/25 10:50:19 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 10:50:28 PM :INFO: ************ Login Successful **********
+04/27/25 10:50:37 PM :INFO: **** Providing Customer Info ****
+04/27/25 10:52:06 PM :INFO: ************ Test_003_AddCustomer **********
+04/27/25 10:52:18 PM :INFO: ************ Login Successful **********
+04/27/25 10:52:26 PM :INFO: **** Providing Customer Info ****
+04/27/25 10:52:47 PM :INFO: ****** Saving Cusomer Info *****
+04/27/25 10:52:47 PM :INFO: ******** Add Customer Validation Started ********
+04/27/25 10:52:48 PM :INFO:  ****** Add Customer Test Passed ******
+04/27/25 10:52:48 PM :INFO: ****** Ending Test_003_AddCustomer Test ******
